@@ -1,13 +1,13 @@
 {
-  "name": "atom-language-pawn",
+  "name": "atom-language-pawn-clean",
   "main": "./lib/language-pawn",
-  "version": "0.2.3",
-  "description": "Pawn language support for Atom",
+  "version": "0.2.4i",
+  "description": "Pawn language support for Atom without SA-MP snippets",
   "activationCommands": {
     "atom-workspace": "language-pawn:toggle"
   },
-  "repository": "https://github.com/Kaperstone/language-pawn",
-  "bugs": "https://github.com/Kaperstone/language-pawn/issues",
+  "repository": "https://github.com/ikkentim/language-pawn",
+  "bugs": "https://github.com/ikkentim/language-pawn/issues",
   "license": "MIT",
   "engines": {
     "atom": "*"
